@@ -1,7 +1,7 @@
 # base-theme
 
 ## folder structure
-
+```
 files (root folder)
 |--content (aka the clients folder)
 |--theme
@@ -13,3 +13,4 @@ files (root folder)
     |--images
     |--js
     |--scss
+```
